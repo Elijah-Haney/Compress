@@ -1,4 +1,4 @@
-body {background-color: aqua; font-size: 20px;}
+body {background-color: aqua;}
 /*mobiler*/
 @media screen and (min-width: 320px) and (max-width: 480px)
   body{
